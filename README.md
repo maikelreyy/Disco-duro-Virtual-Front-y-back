@@ -1,1 +1,0 @@
-# my-virtual-hard-disk
